@@ -35,12 +35,12 @@ html, body {
 
 #navigation {
     float: left;
-    width: 15%;
+    width: 20%;
 }
 
 #right {
     float: right;
-    width: 15%;
+    width: 20%;
 }
 
 #navigation ul {
